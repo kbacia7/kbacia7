@@ -1,4 +1,4 @@
-### 👋 I'm Kamil (also known as Keo). 
+## 👋 I'm Kamil (also known as Keo). 
 
 *My techstack: Node, JS/TS with a lot of React & Next* 
 
